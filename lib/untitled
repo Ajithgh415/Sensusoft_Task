@@ -1,0 +1,1313 @@
+{
+    "status": true,
+    "message": "Done!",
+    "data": {
+        "nearby": [
+            {
+                "id": 213,
+                "name": "Berlin",
+                "description": "",
+                "location": "Cvcvhf",
+                "price": 4.6,
+                "min": 0,
+                "active": "yes",
+                "route_video_id": null,
+                "language": null,
+                "cover_image": "https:\/\/picsum.photos\/200\/300",
+                "stepcount": 4,
+                "duration": 0,
+                "distance": 2,
+                "trashed": false,
+                "average_rating": 3,
+                "is_favourite": false,
+                "author": {
+                    "id": 57,
+                    "username": "shriyank",
+                    "email": "vitec.dev@gmail.com",
+                    "birthday": "29.04.2000",
+                    "location": "surat",
+                    "description": "Hello",
+                    "hobbies": "games",
+                    "job": "TL",
+                    "img_path": "https:\/\/picsum.photos\/200\/300",
+                    "apple_id": null,
+                    "google_id": null,
+                    "otp": 8011,
+                    "otp_expiry": "2022-06-20 06:46:30",
+                    "is_verified": 1,
+                    "active": "yes",
+                    "stripe_customer_id": "cus_LsGMdF32XN1m7t",
+                    "routes_starred_ids": [
+                        164,
+                        187
+                    ],
+                    "level": {
+                        "id": 1,
+                        "description": "Blutiger Anf\u00e4nger"
+                    }
+                },
+                "travelmethod": {
+                    "id": 2,
+                    "name": "Fahrrad"
+                },
+                "steps": [
+                    {
+                        "id": 214,
+                        "route_id": 213,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 0,
+                        "duration": 0,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                72.8561644,
+                                19.0176147
+                            ]
+                        },
+                        "loc_lat": 19.0176147,
+                        "loc_long": 72.8561644,
+                        "audios": [
+                            {
+                                "id": 86,
+                                "route_step_id": 214,
+                                "name": "",
+                                "path": "https:\/\/www.learningcontainer.com\/wp-content\/uploads\/2020\/02\/Kalimba.mp3",
+                                "runtime": "0",
+                                "created_at": "2022-03-17T15:27:51.000000Z",
+                                "updated_at": "2022-03-17T15:27:51.000000Z",
+                                "deleted_at": null
+                            }
+                        ],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    },
+                    {
+                        "id": 215,
+                        "route_id": 213,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "Dfjdfjd",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 1,
+                        "duration": 0,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                72.8561644,
+                                19.0176147
+                            ]
+                        },
+                        "loc_lat": 19.0176147,
+                        "loc_long": 72.8561644,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    },
+                    {
+                        "id": 216,
+                        "route_id": 213,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "Fgj",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 1,
+                        "duration": 0,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                72.856166740281,
+                                19.017599054728
+                            ]
+                        },
+                        "loc_lat": 19.017599054728,
+                        "loc_long": 72.856166740281,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    },
+                    {
+                        "id": 217,
+                        "route_id": 213,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "Dfhdfjdfj",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 0,
+                        "duration": 0,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                72.856171476056,
+                                19.017591232091
+                            ]
+                        },
+                        "loc_lat": 19.017591232091,
+                        "loc_long": 72.856171476056,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    }
+                ],
+                "categories": [
+                    {
+                        "id": 13,
+                        "name": "Natur"
+                    },
+                    {
+                        "id": 15,
+                        "name": "mit Pferd"
+                    },
+                    {
+                        "id": 18,
+                        "name": "Wandern"
+                    },
+                    {
+                        "id": 26,
+                        "name": "Barrierefrei"
+                    }
+                ],
+                "images": [
+                    {
+                        "id": 81,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    },
+                    {
+                        "id": 82,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    },
+                    {
+                        "id": 83,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    },
+                    {
+                        "id": 84,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    },
+                    {
+                        "id": 85,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    }
+                ],
+                "audio": null
+            }
+        ],
+        "popular": [
+            {
+                "id": 213,
+                "name": "Berlin",
+                "description": "",
+                "location": "Cvcvhf",
+                "price": 4.6,
+                "min": 0,
+                "active": "yes",
+                "route_video_id": null,
+                "language": null,
+                "cover_image": "https:\/\/picsum.photos\/200\/300",
+                "stepcount": 4,
+                "duration": 0,
+                "distance": 2,
+                "trashed": false,
+                "average_rating": 3,
+                "is_favourite": false,
+                "author": {
+                    "id": 57,
+                    "username": "shriyank",
+                    "email": "vitec.dev@gmail.com",
+                    "birthday": "29.04.2000",
+                    "location": "surat",
+                    "description": "Hello",
+                    "hobbies": "games",
+                    "job": "TL",
+                    "img_path": "https:\/\/picsum.photos\/200\/300",
+                    "apple_id": null,
+                    "google_id": null,
+                    "otp": 8011,
+                    "otp_expiry": "2022-06-20 06:46:30",
+                    "is_verified": 1,
+                    "active": "yes",
+                    "stripe_customer_id": "cus_LsGMdF32XN1m7t",
+                    "routes_starred_ids": [
+                        164,
+                        187
+                    ],
+                    "level": {
+                        "id": 1,
+                        "description": "Blutiger Anf\u00e4nger"
+                    }
+                },
+                "travelmethod": {
+                    "id": 2,
+                    "name": "Fahrrad"
+                },
+                "steps": [
+                    {
+                        "id": 214,
+                        "route_id": 213,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 0,
+                        "duration": 0,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                72.8561644,
+                                19.0176147
+                            ]
+                        },
+                        "loc_lat": 19.0176147,
+                        "loc_long": 72.8561644,
+                        "audios": [
+                            {
+                                "id": 86,
+                                "route_step_id": 214,
+                                "name": "",
+                                "path": "https:\/\/www.learningcontainer.com\/wp-content\/uploads\/2020\/02\/Kalimba.mp3",
+                                "runtime": "0",
+                                "created_at": "2022-03-17T15:27:51.000000Z",
+                                "updated_at": "2022-03-17T15:27:51.000000Z",
+                                "deleted_at": null
+                            }
+                        ],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    },
+                    {
+                        "id": 215,
+                        "route_id": 213,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "Dfjdfjd",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 1,
+                        "duration": 0,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                72.8561644,
+                                19.0176147
+                            ]
+                        },
+                        "loc_lat": 19.0176147,
+                        "loc_long": 72.8561644,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    },
+                    {
+                        "id": 216,
+                        "route_id": 213,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "Fgj",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 1,
+                        "duration": 0,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                72.856166740281,
+                                19.017599054728
+                            ]
+                        },
+                        "loc_lat": 19.017599054728,
+                        "loc_long": 72.856166740281,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    },
+                    {
+                        "id": 217,
+                        "route_id": 213,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "Dfhdfjdfj",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 0,
+                        "duration": 0,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                72.856171476056,
+                                19.017591232091
+                            ]
+                        },
+                        "loc_lat": 19.017591232091,
+                        "loc_long": 72.856171476056,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    }
+                ],
+                "categories": [
+                    {
+                        "id": 13,
+                        "name": "Natur"
+                    },
+                    {
+                        "id": 15,
+                        "name": "mit Pferd"
+                    },
+                    {
+                        "id": 18,
+                        "name": "Wandern"
+                    },
+                    {
+                        "id": 26,
+                        "name": "Barrierefrei"
+                    }
+                ],
+                "images": [
+                    {
+                        "id": 81,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    },
+                    {
+                        "id": 82,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    },
+                    {
+                        "id": 83,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    },
+                    {
+                        "id": 84,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    },
+                    {
+                        "id": 85,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    }
+                ],
+                "audio": null
+            },
+            {
+                "id": 155,
+                "name": "Biergarten tour",
+                "description": "",
+                "location": "",
+                "price": 0,
+                "min": 0,
+                "active": "1",
+                "route_video_id": null,
+                "language": null,
+                "cover_image": "https:\/\/picsum.photos\/200\/300",
+                "stepcount": 3,
+                "duration": 597,
+                "distance": 3585,
+                "trashed": false,
+                "average_rating": 2.5,
+                "is_favourite": false,
+                "author": {
+                    "id": 22,
+                    "username": "Geralt von Riva",
+                    "email": "b@b.de",
+                    "birthday": "22.01.1985",
+                    "location": "Kaer Morhen",
+                    "description": "Reise eh durch die Welt. Per Pedes oder per Pl\u00f6tze.",
+                    "hobbies": "Schlachten, Frauen, Gwint",
+                    "job": "Hexer",
+                    "img_path": "https:\/\/picsum.photos\/200\/300",
+                    "apple_id": null,
+                    "google_id": null,
+                    "otp": null,
+                    "otp_expiry": null,
+                    "is_verified": 0,
+                    "active": "yes",
+                    "stripe_customer_id": null,
+                    "routes_starred_ids": [],
+                    "level": {
+                        "id": 1,
+                        "description": "Blutiger Anf\u00e4nger"
+                    }
+                },
+                "travelmethod": {
+                    "id": 2,
+                    "name": "Fahrrad"
+                },
+                "steps": [
+                    {
+                        "id": 41,
+                        "route_id": 155,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "Antje und Rainer",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 855,
+                        "duration": 140,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                10.926230466003,
+                                48.354393895761
+                            ]
+                        },
+                        "loc_lat": 48.354393895761,
+                        "loc_long": 10.926230466003,
+                        "audios": [
+                            {
+                                "id": 17,
+                                "route_step_id": 41,
+                                "name": "",
+                                "path": "https:\/\/www.learningcontainer.com\/wp-content\/uploads\/2020\/02\/Kalimba.mp3",
+                                "runtime": "0",
+                                "created_at": "2021-05-22T18:41:16.000000Z",
+                                "updated_at": "2021-05-22T18:41:16.000000Z",
+                                "deleted_at": null
+                            },
+                            {
+                                "id": 18,
+                                "route_step_id": 41,
+                                "name": "",
+                                "path": "https:\/\/www.learningcontainer.com\/wp-content\/uploads\/2020\/02\/Kalimba.mp3",
+                                "runtime": "0",
+                                "created_at": "2021-05-22T18:41:16.000000Z",
+                                "updated_at": "2021-05-22T18:41:16.000000Z",
+                                "deleted_at": null
+                            }
+                        ],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    },
+                    {
+                        "id": 42,
+                        "route_id": 155,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 2730,
+                        "duration": 457,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                10.934081016101,
+                                48.355189647511
+                            ]
+                        },
+                        "loc_lat": 48.355189647511,
+                        "loc_long": 10.934081016101,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    },
+                    {
+                        "id": 43,
+                        "route_id": 155,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 0,
+                        "duration": 0,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                10.936829387001,
+                                48.342782005574
+                            ]
+                        },
+                        "loc_lat": 48.342782005574,
+                        "loc_long": 10.936829387001,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    }
+                ],
+                "categories": [],
+                "images": [],
+                "audio": null
+            },
+            {
+                "id": 166,
+                "name": "Biergarten Augsburg",
+                "description": "Ich bin hier in den letzten Wochen und ich bin hier nicht mehr da ich hab mich so viel zu viel Spa\u00df macht das du so gut wie du meinst ich bin ja nicht da und du hast du dich auch so richtig gemacht hast es auch so richtig gemacht du bist du nicht mehr da ich hab dich nicht gesehen du bist du nicht mehr.",
+                "location": "Augsburg",
+                "price": 20,
+                "min": 15,
+                "active": "yes",
+                "route_video_id": null,
+                "language": null,
+                "cover_image": "https:\/\/picsum.photos\/200\/300",
+                "stepcount": 3,
+                "duration": 0,
+                "distance": 0,
+                "trashed": false,
+                "average_rating": 0,
+                "is_favourite": false,
+                "author": {
+                    "id": 27,
+                    "username": "S\u00f6ren Loos",
+                    "email": "so1ren.loos@vitec.de",
+                    "birthday": "17.03.1997",
+                    "location": "Augsburg",
+                    "description": "I make my own stunts",
+                    "hobbies": "MTB, Paddeln, Snowboarden, Reisen, Zelten",
+                    "job": "Student",
+                    "img_path": "https:\/\/picsum.photos\/200\/300",
+                    "apple_id": null,
+                    "google_id": null,
+                    "otp": null,
+                    "otp_expiry": null,
+                    "is_verified": 0,
+                    "active": "yes",
+                    "stripe_customer_id": null,
+                    "routes_starred_ids": [
+                        166,
+                        178
+                    ],
+                    "level": {
+                        "id": 1,
+                        "description": "Blutiger Anf\u00e4nger"
+                    }
+                },
+                "travelmethod": {
+                    "id": 3,
+                    "name": "Bus\/Bahn"
+                },
+                "steps": [
+                    {
+                        "id": 72,
+                        "route_id": 166,
+                        "route_travelmethod_id": 3,
+                        "order": 0,
+                        "description": "",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 0,
+                        "duration": 0,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                10.916408465997,
+                                48.355233023233
+                            ]
+                        },
+                        "loc_lat": 48.355233023233,
+                        "loc_long": 10.916408465997,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 3,
+                            "name": "Bus\/Bahn"
+                        }
+                    },
+                    {
+                        "id": 73,
+                        "route_id": 166,
+                        "route_travelmethod_id": 3,
+                        "order": 0,
+                        "description": "",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 0,
+                        "duration": 0,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                10.980793984417,
+                                48.353123149879
+                            ]
+                        },
+                        "loc_lat": 48.353123149879,
+                        "loc_long": 10.980793984417,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 3,
+                            "name": "Bus\/Bahn"
+                        }
+                    },
+                    {
+                        "id": 74,
+                        "route_id": 166,
+                        "route_travelmethod_id": 3,
+                        "order": 0,
+                        "description": "",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 0,
+                        "duration": 0,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                10.890348546858,
+                                48.26476722356
+                            ]
+                        },
+                        "loc_lat": 48.26476722356,
+                        "loc_long": 10.890348546858,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 3,
+                            "name": "Bus\/Bahn"
+                        }
+                    }
+                ],
+                "categories": [
+                    {
+                        "id": 13,
+                        "name": "Natur"
+                    },
+                    {
+                        "id": 20,
+                        "name": "Familie"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Kultur"
+                    },
+                    {
+                        "id": 26,
+                        "name": "Barrierefrei"
+                    }
+                ],
+                "images": [
+                    {
+                        "id": 29,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    },
+                    {
+                        "id": 30,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    },
+                    {
+                        "id": 31,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    },
+                    {
+                        "id": 32,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    }
+                ],
+                "audio": null
+            },
+            {
+                "id": 188,
+                "name": "Prague rekola bike tour",
+                "description": "Classic prague highlights",
+                "location": "Prague",
+                "price": 0.5,
+                "min": 300,
+                "active": "yes",
+                "route_video_id": null,
+                "language": null,
+                "cover_image": "https:\/\/picsum.photos\/200\/300",
+                "stepcount": 11,
+                "duration": 5532,
+                "distance": 19058,
+                "trashed": false,
+                "average_rating": 0,
+                "is_favourite": false,
+                "author": {
+                    "id": 32,
+                    "username": "Lena Teunissen",
+                    "email": "lenateu-enkano@gmail.com",
+                    "birthday": "17.08.1997",
+                    "location": "",
+                    "description": "",
+                    "hobbies": "",
+                    "job": "",
+                    "img_path": "https:\/\/picsum.photos\/200\/300",
+                    "apple_id": null,
+                    "google_id": null,
+                    "otp": null,
+                    "otp_expiry": null,
+                    "is_verified": 0,
+                    "active": "yes",
+                    "stripe_customer_id": null,
+                    "routes_starred_ids": [],
+                    "level": {
+                        "id": 1,
+                        "description": "Blutiger Anf\u00e4nger"
+                    }
+                },
+                "travelmethod": {
+                    "id": 2,
+                    "name": "Fahrrad"
+                },
+                "steps": [
+                    {
+                        "id": 128,
+                        "route_id": 188,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 626,
+                        "duration": 192,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                14.414943227949,
+                                50.086866729782
+                            ]
+                        },
+                        "loc_lat": 50.086866729782,
+                        "loc_long": 14.414943227949,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    },
+                    {
+                        "id": 129,
+                        "route_id": 188,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 1957,
+                        "duration": 773,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                14.421195168728,
+                                50.087298632379
+                            ]
+                        },
+                        "loc_lat": 50.087298632379,
+                        "loc_long": 14.421195168728,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    },
+                    {
+                        "id": 130,
+                        "route_id": 188,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 4086,
+                        "duration": 1147,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                14.428010447253,
+                                50.086915381235
+                            ]
+                        },
+                        "loc_lat": 50.086915381235,
+                        "loc_long": 14.428010447253,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    },
+                    {
+                        "id": 131,
+                        "route_id": 188,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 1312,
+                        "duration": 261,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                14.412326768211,
+                                50.075479305319
+                            ]
+                        },
+                        "loc_lat": 50.075479305319,
+                        "loc_long": 14.412326768211,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    },
+                    {
+                        "id": 132,
+                        "route_id": 188,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 2297,
+                        "duration": 654,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                14.407932304853,
+                                50.081090095788
+                            ]
+                        },
+                        "loc_lat": 50.081090095788,
+                        "loc_long": 14.407932304853,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    },
+                    {
+                        "id": 133,
+                        "route_id": 188,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 3925,
+                        "duration": 1097,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                14.409222873147,
+                                50.086712718323
+                            ]
+                        },
+                        "loc_lat": 50.086712718323,
+                        "loc_long": 14.409222873147,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    },
+                    {
+                        "id": 134,
+                        "route_id": 188,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 1200,
+                        "duration": 413,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                14.401288741179,
+                                50.091147586032
+                            ]
+                        },
+                        "loc_lat": 50.091147586032,
+                        "loc_long": 14.401288741179,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    },
+                    {
+                        "id": 135,
+                        "route_id": 188,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 991,
+                        "duration": 297,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                14.416596548012,
+                                50.094711234922
+                            ]
+                        },
+                        "loc_lat": 50.094711234922,
+                        "loc_long": 14.416596548012,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    },
+                    {
+                        "id": 136,
+                        "route_id": 188,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 1631,
+                        "duration": 313,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                14.425312219248,
+                                50.096085759187
+                            ]
+                        },
+                        "loc_lat": 50.096085759187,
+                        "loc_long": 14.425312219248,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    },
+                    {
+                        "id": 137,
+                        "route_id": 188,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 1033,
+                        "duration": 385,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                14.417294816705,
+                                50.089680755474
+                            ]
+                        },
+                        "loc_lat": 50.089680755474,
+                        "loc_long": 14.417294816705,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    },
+                    {
+                        "id": 138,
+                        "route_id": 188,
+                        "route_travelmethod_id": 2,
+                        "order": 0,
+                        "description": "",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 0,
+                        "duration": 0,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                14.413375762017,
+                                50.086187244261
+                            ]
+                        },
+                        "loc_lat": 50.086187244261,
+                        "loc_long": 14.413375762017,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 2,
+                            "name": "Fahrrad"
+                        }
+                    }
+                ],
+                "categories": [
+                    {
+                        "id": 13,
+                        "name": "Natur"
+                    },
+                    {
+                        "id": 17,
+                        "name": "Fotografie"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Kultur"
+                    }
+                ],
+                "images": [],
+                "audio": null
+            },
+            {
+                "id": 212,
+                "name": "Kanaltour M\u00fcnster",
+                "description": "Coole Kanaltour",
+                "location": "M\u00fcnster",
+                "price": 20,
+                "min": 210,
+                "active": "yes",
+                "route_video_id": null,
+                "language": null,
+                "cover_image": "https:\/\/picsum.photos\/200\/300",
+                "stepcount": 4,
+                "duration": 2298,
+                "distance": 2826,
+                "trashed": false,
+                "average_rating": 0,
+                "is_favourite": false,
+                "author": {
+                    "id": 38,
+                    "username": "Luft Navigator",
+                    "email": "mmay1er@test-medien.de",
+                    "birthday": "01.01.2000",
+                    "location": "",
+                    "description": "",
+                    "hobbies": "",
+                    "job": "",
+                    "img_path": "",
+                    "apple_id": "appleuser",
+                    "google_id": null,
+                    "otp": null,
+                    "otp_expiry": null,
+                    "is_verified": 0,
+                    "active": "yes",
+                    "stripe_customer_id": null,
+                    "routes_starred_ids": [],
+                    "level": {
+                        "id": 1,
+                        "description": "Blutiger Anf\u00e4nger"
+                    }
+                },
+                "travelmethod": {
+                    "id": 1,
+                    "name": "Zu Fu\u00df"
+                },
+                "steps": [
+                    {
+                        "id": 210,
+                        "route_id": 212,
+                        "route_travelmethod_id": 1,
+                        "order": 0,
+                        "description": "Kanalweg an der ersten Br\u00fccke",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 588,
+                        "duration": 454,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                7.6636679537263,
+                                51.968100157295
+                            ]
+                        },
+                        "loc_lat": 51.968100157295,
+                        "loc_long": 7.6636679537263,
+                        "audios": [
+                            {
+                                "id": 81,
+                                "route_step_id": 210,
+                                "name": "Nochmal: Kanaltour!",
+                                "path": "https:\/\/www.learningcontainer.com\/wp-content\/uploads\/2020\/02\/Kalimba.mp3",
+                                "runtime": "0",
+                                "created_at": "2021-12-06T20:47:27.000000Z",
+                                "updated_at": "2021-12-06T20:47:27.000000Z",
+                                "deleted_at": null
+                            },
+                            {
+                                "id": 82,
+                                "route_step_id": 210,
+                                "name": "Und das h\u00f6rt man dann als N\u00e4chstes",
+                                "path": "https:\/\/www.learningcontainer.com\/wp-content\/uploads\/2020\/02\/Kalimba.mp3",
+                                "runtime": "0",
+                                "created_at": "2021-12-06T20:47:27.000000Z",
+                                "updated_at": "2021-12-06T20:47:27.000000Z",
+                                "deleted_at": null
+                            },
+                            {
+                                "id": 83,
+                                "route_step_id": 210,
+                                "name": "Weiter s\u00fcdw\u00e4rts",
+                                "path": "https:\/\/www.learningcontainer.com\/wp-content\/uploads\/2020\/02\/Kalimba.mp3",
+                                "runtime": "0",
+                                "created_at": "2021-12-06T20:47:27.000000Z",
+                                "updated_at": "2021-12-06T20:47:27.000000Z",
+                                "deleted_at": null
+                            },
+                            {
+                                "id": 84,
+                                "route_step_id": 210,
+                                "name": "",
+                                "path": "https:\/\/www.learningcontainer.com\/wp-content\/uploads\/2020\/02\/Kalimba.mp3",
+                                "runtime": "0",
+                                "created_at": "2021-12-06T20:47:27.000000Z",
+                                "updated_at": "2021-12-06T20:47:27.000000Z",
+                                "deleted_at": null
+                            }
+                        ],
+                        "travelmethod": {
+                            "id": 1,
+                            "name": "Zu Fu\u00df"
+                        }
+                    },
+                    {
+                        "id": 211,
+                        "route_id": 212,
+                        "route_travelmethod_id": 1,
+                        "order": 0,
+                        "description": "N\u00e4chste Br\u00fccke",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 804,
+                        "duration": 635,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                7.6644228060871,
+                                51.962812389938
+                            ]
+                        },
+                        "loc_lat": 51.962812389938,
+                        "loc_long": 7.6644228060871,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 1,
+                            "name": "Zu Fu\u00df"
+                        }
+                    },
+                    {
+                        "id": 212,
+                        "route_id": 212,
+                        "route_travelmethod_id": 1,
+                        "order": 0,
+                        "description": "Wieder eine Br\u00fccke",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 1434,
+                        "duration": 1209,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                7.66040188684,
+                                51.958039818601
+                            ]
+                        },
+                        "loc_lat": 51.958039818601,
+                        "loc_long": 7.66040188684,
+                        "audios": [
+                            {
+                                "id": 85,
+                                "route_step_id": 212,
+                                "name": "wow",
+                                "path": "https:\/\/www.learningcontainer.com\/wp-content\/uploads\/2020\/02\/Kalimba.mp3",
+                                "runtime": "0",
+                                "created_at": "2021-12-06T20:47:27.000000Z",
+                                "updated_at": "2021-12-06T20:47:27.000000Z",
+                                "deleted_at": null
+                            }
+                        ],
+                        "travelmethod": {
+                            "id": 1,
+                            "name": "Zu Fu\u00df"
+                        }
+                    },
+                    {
+                        "id": 213,
+                        "route_id": 212,
+                        "route_travelmethod_id": 1,
+                        "order": 0,
+                        "description": "Ziel",
+                        "is_start": 0,
+                        "is_finish": 0,
+                        "distance": 0,
+                        "duration": 0,
+                        "geopos": {
+                            "type": "Point",
+                            "coordinates": [
+                                7.6485627741073,
+                                51.950419446183
+                            ]
+                        },
+                        "loc_lat": 51.950419446183,
+                        "loc_long": 7.6485627741073,
+                        "audios": [],
+                        "travelmethod": {
+                            "id": 1,
+                            "name": "Zu Fu\u00df"
+                        }
+                    }
+                ],
+                "categories": [
+                    {
+                        "id": 15,
+                        "name": "mit Pferd"
+                    },
+                    {
+                        "id": 16,
+                        "name": "mit Hund"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Kultur"
+                    },
+                    {
+                        "id": 24,
+                        "name": "Kneipentour"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Sport"
+                    }
+                ],
+                "images": [
+                    {
+                        "id": 76,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    },
+                    {
+                        "id": 77,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    },
+                    {
+                        "id": 78,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    },
+                    {
+                        "id": 79,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    },
+                    {
+                        "id": 80,
+                        "path": "https:\/\/picsum.photos\/200\/300"
+                    }
+                ],
+                "audio": {
+                    "id": 80,
+                    "route_step_id": 0,
+                    "name": "Intro",
+                    "path": "https:\/\/www.learningcontainer.com\/wp-content\/uploads\/2020\/02\/Kalimba.mp3",
+                    "runtime": "0",
+                    "created_at": "2021-12-06T20:47:27.000000Z",
+                    "updated_at": "2021-12-06T20:47:27.000000Z",
+                    "deleted_at": null
+                }
+            }
+        ]
+    }
+}
